@@ -1,0 +1,9 @@
+.modal { z-index:105000;}
+.modal__btn { font-size:20px;} 
+  #timeFrom { font-size:20px;}
+  #timeTo { font-size:20px;}
+  .formSelector { width:440px; font-size:20px;}
+   
+    #mapComponent { height:100px; }
+ 
+    #filter { width: 100px; height:100px;}
